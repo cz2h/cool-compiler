@@ -1,0 +1,8 @@
+.idea
+.DS_Store
+
+# Folder in which to actually work the problems
+exercises
+
+# Build output
+output
